@@ -1,6 +1,6 @@
 # Ideal-Breakfast
 This is my perfect breakfast
-![Eggs, bacon, and eggs](/https://images-gmi-pmc.edge-generalmills.com/c25c9031-4c4f-4055-a311-d8a77e22b091.jpg)
+![Eggs, bacon, and eggs](/c25c9031-4c4f-4055-a311-d8a77e22b091.jpg)
 # Eggs and Bacon Pancakes
 _**Ingredients**_
 * lb sliced bacon
