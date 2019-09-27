@@ -1,4 +1,4 @@
-# Ideal Breakfast
+# Ideal Breakfast, Eggs and Bacon Pancakes
 **This is my perfect breakfast**
 
 ![Alt Text](https://www.eggrecipes.co.uk/sites/default/files/styles/large_main_image/public/2018/09/bigbreakfastpancakes.jpg?itok=Y-6ckuZr)
@@ -7,8 +7,7 @@
 **_Total time_**: 30 mins
 **_Servings_**: 4
 
-# Eggs and Bacon Pancakes
-_**Ingredients**_
+# Ingredients 
 * lb sliced bacon
 * 2cups Original Bisquick™ Mix
 * 1cup milk
