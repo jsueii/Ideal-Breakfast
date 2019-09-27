@@ -1,4 +1,4 @@
-# Ideal-Breakfast
+# Ideal Breakfast
 This is my perfect breakfast
 
 ![Alt Text](https://www.eggrecipes.co.uk/sites/default/files/styles/large_main_image/public/2018/09/bigbreakfastpancakes.jpg?itok=Y-6ckuZr)
