@@ -1,6 +1,6 @@
 # Ideal-Breakfast
 This is my perfect breakfast
-![Eggs, bacon, and eggs](./c25c9031-4c4f-4055-a311-d8a77e22b091.jpg)
+
 ![Alt Text](https://www.eggrecipes.co.uk/sites/default/files/styles/large_main_image/public/2018/09/bigbreakfastpancakes.jpg?itok=Y-6ckuZr)
 # Eggs and Bacon Pancakes
 _**Ingredients**_
