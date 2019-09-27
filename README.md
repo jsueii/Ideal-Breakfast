@@ -2,6 +2,11 @@
 This is my perfect breakfast
 
 ![Alt Text](https://www.eggrecipes.co.uk/sites/default/files/styles/large_main_image/public/2018/09/bigbreakfastpancakes.jpg?itok=Y-6ckuZr)
+
+**_Preptime_**: 30 mins
+**_Total time_**: 30 mins
+**_Servings_**: 4
+
 # Eggs and Bacon Pancakes
 _**Ingredients**_
 * lb sliced bacon
@@ -11,9 +16,13 @@ _**Ingredients**_
 * Salt and pepper to taste
 * Real maple or maple-flavored syrup
 
-**_Preptime_**: 30 mins
-**_Total time_**: 30 mins
-**_Servings_**: 4
+# Prices
+* 1b sliced bacon - $4.98
+* Original Bisquick™ Mix - $2.94
+* 1 Gallon of milk - $1.89
+* Dozen eggs - $2.69
+* Salt and pepper - $3.57
+* Maple Syrup - $5.98
 
 # Steps
 1. Cut bacon slices into 1/2-inch pieces. Cook in skillet or microwave until desired crispness is reached.
